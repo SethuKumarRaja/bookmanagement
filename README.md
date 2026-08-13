@@ -19,6 +19,7 @@ A simple REST API for managing books using Spring Boot, Spring Data JPA and MySQ
 ## APIs
 
 | Method | Endpoint | Description |
+
 |---|---|---|
 | POST | /books | Create a book |
 | GET | /books | Get all books |
